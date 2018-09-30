@@ -1,0 +1,3 @@
+[submodule "Kotlin-Basics"]
+	path = Kotlin-Basics
+	url = https://github.com/KaveriKR/Kotlin-Basics.git
