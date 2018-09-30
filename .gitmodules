@@ -1,3 +1,6 @@
 [submodule "Kotlin-Basics"]
 	path = Kotlin-Basics
 	url = https://github.com/KaveriKR/Kotlin-Basics.git
+[submodule "Kotlin-String-When"]
+	path = Kotlin-String-When
+	url = https://github.com/KaveriKR/Kotlin-String-When.git
