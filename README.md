@@ -1,6 +1,7 @@
 #Kotlin- Learning Codelabs
 
 These codes samples are set of learning tutorials that I had designed and created for learning Kotlin language with code implementations inside Android Studio.
+
 These covers the question "How to use Kotlin basis" for a starter and "How does Kotlin simply coding " , these code sample include comments that gives a better understanding of the usage of the Kotlin syntax directly from the Kotlin lang official site.
 
 Reference :- https://kotlinlang.org/docs/reference/
